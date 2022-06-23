@@ -4,10 +4,10 @@
 
 <br>
 
-* O objetivo do trabalho é apresentado com detalhe no ficheiro [Enunciado.pdf](https://github.com/thomaspfresco/portfolioLEI/blob/main/%5BATD%5D%20Algoritmos%20e%20Estruturas%20de%20Dados/Enunciado.pdf).
+* O objetivo do trabalho é apresentado com detalhe no ficheiro [Enunciado.pdf](https://github.com/thomaspfresco/portfolioLEI/blob/main/%5BATD%5D%20An%C3%A1lise%20e%20Transforma%C3%A7%C3%A3o%20de%20Dados/Enunciado.pdf).
 
-* O código fonte está organizado na diretoria [Source](https://github.com/thomaspfresco/portfolioLEI/tree/main/%5BPPP%5D%20Princ%C3%ADpios%20de%20Programa%C3%A7%C3%A3o%20Procedimental/Source).
+* O código fonte está organizado na diretoria [Source](https://github.com/thomaspfresco/portfolioLEI/tree/main/%5BATD%5D%20An%C3%A1lise%20e%20Transforma%C3%A7%C3%A3o%20de%20Dados/Source).
 
-* O relatório do trabalho é o ficheiro [Relatório.pdf](). 
+* O relatório do trabalho é o ficheiro [Relatório.pdf](https://github.com/thomaspfresco/portfolioLEI/blob/main/%5BATD%5D%20An%C3%A1lise%20e%20Transforma%C3%A7%C3%A3o%20de%20Dados/Relat%C3%B3rio.pdf). 
 
-* Os ficheiros complementares ao código fonte, no que diz respeito ao input, estão na pasta [Input](https://github.com/thomaspfresco/LEI_portfolio/tree/main/%5BPPP%5D%20Princ%C3%ADpios%20de%20Programa%C3%A7%C3%A3o%20Procedimental/Input).
+* Os ficheiros complementares ao código fonte, no que diz respeito ao input, estão na pasta [Input](https://github.com/thomaspfresco/portfolioLEI/tree/main/%5BATD%5D%20An%C3%A1lise%20e%20Transforma%C3%A7%C3%A3o%20de%20Dados/Input).
