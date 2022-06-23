@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>scoreDEI | Login</title>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+              <div class="navbar-header">
+                <a class="navbar-brand" href="/home">scoreDEI</a>
+              </div>
+              <ul class="nav navbar-nav">
+                <li><a href="/listMatches">Matches</a></li>
+                <li><a href="/listTeams">Teams</a></li>
+                <li><a href="/listPlayers">Players</a></li>
+                <li><a href="/statistics">Statistics</a></li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                <li class="active"><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+              </ul>
+            </div>
+          </nav>
+        <div class="container" style="margin-top:15%;">
+            <div class="text-center">
+                <h2>Please, login</h2>
+            </div>
+            <br>
+            <form  th:action="@{/login}" th:object="${user}" method="get" class="form-horizontal">
+              <div class="form-group">
+                <label class="control-label col-sm-4" for="email">Username</label>
+                <div class="col-sm-4">
+                  <input type="text" class="form-control" th:field="*{username}" placeholder="Enter username">
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="control-label col-sm-4" for="pwd">Password</label>
+                <div class="col-sm-4">          
+                  <input type="password" class="form-control" th:field="*{password}" placeholder="Enter password">
+                </div>
+              </div>
+              <div class="form-group">        
+                <div class="col-sm-offset-2 col-sm-">
+                </div>
+              </div>
+              <div class="form-group">        
+                <div class="text-center">
+                    <button type="submit" value="Submit">Login</button>
+                </div>
+              </div>
+            </form>
+          </div>          
+    </body>
+</html>

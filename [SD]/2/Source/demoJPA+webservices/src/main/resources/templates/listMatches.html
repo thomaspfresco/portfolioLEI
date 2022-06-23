@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>List of matches</title>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/home">scoreDEI</a>
+            </div>
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Matches</a></li>
+              <li><a href="/listTeams">Teams</a></li>
+              <li><a href="/listPlayers">Players</a></li>
+              <li><a href="/statistics">Statistics</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/loginUser"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+          </div>
+        </nav>
+        <h1 class="text-center">List of Matches</h1>
+        </div>
+        <table border="1" class="table table-striped">
+          <tr>
+            <th>ID</th>
+            <th>TEAM A</th>
+            <th>TEAM B</th>
+            <th>LOCATION</th>
+            <th>DATE</th>
+            <th>FINISHED</th>
+            <th>EVENTS</th>
+          </tr>
+          <tr th:each="t : ${matches}">
+            <td th:text="${t.id}">id</td>
+            <td th:text="${t.teamA}">teamA</td>
+            <td th:text="${t.teamB}">teamB</td>
+            <!--<td><a th:href="@{editProfe(id=${t.id})}">here</a></td>-->
+            <!--<td><a th:href="@{changeOffice(id=${t.id})}">here</a></td>-->
+            <td th:text="${t.location}">location</td>
+            <td th:text="${t.date}">date</td>
+            <td th:text="${t.finished}">finished</td>
+            <td><a th:href="@{listMatchEvents(id=${t.id})}">events</a></td>
+          </tr>
+        </table>
+    </body>
+</html>

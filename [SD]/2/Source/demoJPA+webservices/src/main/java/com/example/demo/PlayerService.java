@@ -1,0 +1,47 @@
+package com.example.demo;    
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+import com.example.data.Player;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+@Service    
+public class PlayerService   
+{    
+    @Autowired    
+    private PlayerRepository playerRepository;
+
+    public List<Player> getAllPlayers()  
+    {    
+        List<Player>userRecords = new ArrayList<>();    
+        playerRepository.findAll().forEach(userRecords::add);    
+        return userRecords;    
+    }
+
+    public void addPlayer(Player player)  
+    { 
+        List<Player> p = findByNameEndsWith(player.getName());
+        if(!p.contains(player)) {
+            p.add(player);
+        }  
+        playerRepository.save(player);    
+    }
+
+    public Optional<Player> getPlayer(int id) {
+        return playerRepository.findById(id);
+    }
+
+    
+    public List<Player> findByNameEndsWith(String chars) {
+        return playerRepository.findByNameEndsWith(chars);
+    }
+
+    public List<Player> findPlayersFromTeam(String chars) {
+        return playerRepository.findPlayersFromTeam(chars);
+    }
+
+}    

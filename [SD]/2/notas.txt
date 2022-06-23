@@ -1,0 +1,13 @@
+Preocupações prévias ----------//----------//----------
+
+- Instalação do software docker;
+- Terminal adqueado para correr o Spring Boot;
+- Software(s) adequado(s) para visualizar e editar ficheiros ".java" e ".html", entre outros.
+
+Instruções: ----------//----------//----------
+
+- abrir docker;
+- abrir (no nosso caso) VsCode na pasta do código fonte. Depois, ao aparecer um popup, deve clicar-se na opção que diz "reabrir no container";
+- na nova consola, fazer "cd" para a pasta "demoJPA+webservices";
+- correr o comando "./mvnw spring-boot:run";
+- abrir num browser o link "http://localhost:8080/".

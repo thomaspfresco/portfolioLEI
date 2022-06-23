@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>List of Events</title>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+      <nav class="navbar navbar-inverse">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/home">scoreDEI</a>
+            </div>
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="/listMatches">Matches</a></li>
+              <li><a href="/listTeams">Teams</a></li>
+              <li><a href="/listPlayers">Players</a></li>
+              <li><a href="/statistics">Statistics</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <button class="btn btn-link" type="submit"><span class="glyphicon glyphicon-log-out"></span> Logout</button>
+            </ul>
+          </div>
+        </nav>
+        <h1 class="text-center" th:text="${match.toString()}"/>
+        <br>
+        <h1 class="text-center" th:text="${resultado}"/>
+        <br>
+        <h2 class="text-center">List of Events</h2>
+        </div>
+        <table border="1" class="table table-striped">
+          <tr>
+            <th>ID</th>
+            <th>TYPE</th>
+            <th>TIME</th>
+            <th>PLAYER</th>
+            <th>TEAM</th>
+          </tr>
+          <tr th:each="t : ${thisEvents}">
+            <td th:text="${t.id}">id</td>
+            <td th:text="${t.type}">type</td>
+            <td th:text="${t.time}">time</td>
+            <td th:text="${t.getPlayer().getName()}">player</td>
+            <td th:text="${t.getPlayer().getTeam().getName()}">team</td>
+          </tr>
+        </table>
+        <div class="text-center" style="margin-top:2%;">
+          <form th:action="@{/createEvent}" method="get">
+            <div="form-row">
+                <button class="btn btn-danger" type="submit">Add event</button>
+            </div>
+          </form>
+        </div>
+    </body>
+</html>

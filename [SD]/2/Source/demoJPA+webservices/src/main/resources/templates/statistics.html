@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Statistics</title>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+      <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/home">scoreDEI</a>
+          </div>
+          <ul class="nav navbar-nav">
+            <li><a href="/listMatches">Matches</a></li>
+            <li><a href="/listTeams">Teams</a></li>
+            <li><a href="/listPlayers">Players</a></li>
+            <li class="active"><a href="/statistics">Statistics</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/loginUser"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          </ul>
+        </div>
+      </nav>
+
+        <h1 class="text-center">Statistics</h1>
+  
+        <table border="1" class="table table-striped">
+          <tr>
+            <th>ID</th>
+            <th>TEAM NAME</th>
+            <th>GAMES PLAYED</th>
+            <th>WINS</th>
+            <th>LOSSES</th>
+            <th>DRAWS</th>  
+          </tr>
+          <tr th:each="t : ${allTeams}">
+            <td th:text="${t.id}">id</td>
+            <td th:text="${t.name}">name</td>
+            <td th:text="${t.wins+t.losses+t.draws}">games played</td>
+            <td th:text="${t.wins}">wins</td>
+            <td th:text="${t.losses}">losses</td>
+            <td th:text="${t.draws}">draws</td>
+            <!--td><a th:href="@{editPlayer(id=${t.id})}">edit</a></td-->
+          </tr>
+        </table>
+        <br>
+        <div class="text-center">
+        <label>Top Scorer of the League:</label>
+        <td th:text="${topScorer.getName()}"></td>
+        <label>from</label>
+        <td th:text="${topScorer.getTeam().getName()}"></td>
+        </div>
+    </body>
+</html>

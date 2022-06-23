@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>scoreDEI</title>
+        <meta charset="utf8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+              <div class="navbar-header">
+                <a class="navbar-brand" href="/home">scoreDEI</a>
+              </div>
+              <ul class="nav navbar-nav">
+                <li><a href="/listMatches">Matches</a></li>
+                <li><a href="/listTeams">Teams</a></li>
+                <li><a href="/listPlayers">Players</a></li>
+                <li><a href="/statistics">Statistics</a></li>
+                <li><a href="#">                        </a></li>
+                <li><a href="/listEvents">All Events</a></li>
+                <li><a href="/listUsers">Users</a></li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                <form th:action="@{/logout}" method="post" style="margin-top: 8px;">
+                    <div="form-row">
+                        <button class="btn btn-link" type="submit"><span class="glyphicon glyphicon-log-out"></span> Logout</button>
+                    </div>
+                  </form>
+              </ul>
+            </div>
+          </nav>
+        <br>
+        <div class="text-center" style="margin-top:20%">
+            <h1 style="display:inline">Welcome to scoreDEI, </h1><h1 style="display:inline" th:text="${user.get(0).getUsername()}"/><h1 style="display:inline">!</h1>
+            <br>
+            <p> Admin </p>
+        </div>
+    </body>
+</html>
