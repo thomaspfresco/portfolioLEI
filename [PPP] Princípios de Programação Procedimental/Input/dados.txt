@@ -1,0 +1,101 @@
+M/João Miguel/ortopedia
+M/Sara Jorge/dermatologia
+M/Raúl Gameiro/nefrologia
+M/Ismael Garcia/cardiologia
+M/Simone Feira/oftalmologia
+M/Mario Duarte/ginecologia
+M/Ludmila Monte/reumatologia
+M/Orlando Ramos/urologia
+M/Cláudio Baía/psiquiatria
+M/Sandro Coimbra/gastrenterologia
+M/Stella Escobar/pediatria
+M/Kelson Aguiar/radioterapia
+M/Isabela Amado/estomatologia
+M/Carol Franqueira/cirurgia geral
+M/Vicente Saraiva/cirurgia plástica
+M/Marta Gil/nutrição
+D/Tomás Santos/ortopedia/3
+D/José Ferreira/ortopedia/4
+D/Simão Soares/ortopedia/1
+D/Mariana Silva/dermatologia/3
+D/Fausto Carramate/dermatologia/2
+D/Eduardo Camões/dermatologia/4
+D/Nélia Amaral/dermatologia/1
+D/Magda Bogado/cardiologia/3
+D/Rita Mourão/cirurgia geral/3
+D/Marta Infante/urologia/4
+D/Flora Marcondes/urologia/1
+D/Grace Ramires/pediatria/2
+D/Séfora Vinhas/nefrologia/1
+D/Erica Tristão/oftalmologia/4
+D/Mel Carvalheiro/cirurgia plástica/4
+D/Tierri Braga/urologia/3
+D/Ari Garcez/gastrenterologia/1
+D/Nayr Roçadas/reumatologia/2
+D/Fábio Sodré/radioterapia/1
+D/Matilde Leiria/ginecologia/4
+D/Camilla Beltrão/ginecologia/3
+D/Ibrahim Calheiros/dermatologia/2
+D/Hazael Vilarinho/nefrologia/1
+D/Heloisa Eanes/Homeopatia/4
+D/Nancy Lagoa/psiquiatria/2
+D/Max Rebouças/cirurgia plástica/3
+D/Mark Azeredo/urologia/1
+D/Sheila Pinto/cardiologia/3
+D/Liliana Botelho/pediatria/2
+D/Jorge Cortês/gastrenterologia/4
+D/Claudio Temes/urologia/1
+D/Cristovão Henriques/dermatologia/2
+D/Tabita Picanço/oftalmologia/3
+D/Ruan Lobo/reumatologia/1
+D/Heitor Covinha/radioterapia/2
+D/Marco Cerqueira/cirurgia geral/2
+D/Zhen Igrejas/nefrologia/3
+D/Tiago Galindo/urologia/4
+D/Stacy Bairros/urologia/1
+D/Jonathan Veleda/dermatologia/2
+D/Dina Azambuja/oftalmologia/1
+D/Evelina Grangeia/cardiologia/3
+D/Messias Barrocas/reumatologia/3
+D/Benjamim Sarmento/psiquiatria/1
+D/Sílvia Carvalhoso/ginecologia/2
+D/Glória Faia/ginecologia/3
+D/Chris Abreu/gastrenterologia/1
+D/Dilan Banha/radioterapia/2
+D/Diana Mateus/cirurgia geral/3
+D/Hélio Morais/psiquiatria/4
+D/Eva Filipe/pediatria/4
+D/Yasmin Carlos/cirurgia plástica/3
+D/Dina Albuquerque/urologia/1
+D/Oscar Neves/urologia/2
+D/Luís Viana/dermatologia/1
+D/Simona Furtado/urologia/3
+D/Vicente Nogueira/cardiologia/3
+D/Nádia Graça/dermatologia/4
+D/Delmar Paiva/pediatria/2
+D/Kelson Queiroga/radioterapia/4
+D/Anthony Tomé/oftalmologia/1
+D/Alana Semedo/reumatologia/2
+D/Elsa Fontoura/urologia/3
+D/Mirela Sarmento/dermatologia/2
+D/Oscar Poças/dermatologia/4
+D/Ariel Cantanhede/nefrologia/1
+D/Derick Igrejas/nefrologia/3
+D/Válter Caetano/cirurgia geral/4
+D/Johnny Passarinho/cirurgia geral/1
+D/Manuel Souto/cirurgia plástica/3
+D/Virgílio Reis/pediatria/1
+D/Rayssa Bilhalva/dermatologia/3
+D/Derek Doutis/reumatologia/4
+D/David Martinho/oftalmologia/2
+D/Laryssa Cedro/ginecologia/2
+D/Barbara Valido/urologia/4
+D/Thomas Fresco/nutrição/1
+D/Magda Freire/dermatologia/3
+D/Neusa Lagoas/cardiologia/2
+D/Dante Rosário/cardiologia/4
+D/Maia Aveiro/ortopedia/3
+D/Isabela Bastos/ortopedia/2
+D/Rogério Guterres/cardiologia/1
+D/Constança Festas/reumatologia/2
+

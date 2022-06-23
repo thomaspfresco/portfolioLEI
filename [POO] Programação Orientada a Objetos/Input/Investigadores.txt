@@ -1,0 +1,31 @@
+INVESTIGADORES-----//-----//-----
+Jorge Henriques#jh@dei.uc.pt#AC#23#214490457#Responsável
+André Ventura#arventurablue@hotmail.com#AC#14#214092812
+Carlos Nogueira#cmsbn@student.dei.uc.pt#AC#12#214333222
+Adriana Leal#aleal@dei.uc.pt#AC#Wireless Sensor Networks Monitoring Tool#04/02/2021
+Pedro Correia#pamc@dei.uc.pt#AC#Visualization techniques for Big Data#15/03/2021
+Penousal Machado#machado@dei.uc.pt#CMS#7#239456432#Responsável
+Ana Boavida#aboavida@dei.uc.pt#CMS#18#239010230
+Marco Veloso#cmveloso@dei.uc.pt#CMS#10#239121555
+Bruna Sousa#bruna@dei.uc.pt#CMS#Visualization for Genetic Algorithms#13/02/2021
+Catarina Maçãs#cmacas@dei.uc.pt#CMS#Tipografia Expressiva#21/03/2021
+Nuno Lourenço#naml@dei.uc.pt#ECOS#33#239112234#Responsável
+Ernesto Costa#ernesto@dei.uc.pt#ECOS#24#239975372
+João Correia#jncor@dei.uc.pt#ECOS#9#239232677
+Jessica Cunha#jessicac@student.dei.uc.pt#ECOS#sistemas de dedução#16/03/2021
+Victor Costa#vfc@dei.uc.pt#ECOS#UX Express#02/04/2021
+Licínio Roque#lir@dei.uc.pt#IS#12#239204587#Responsável
+Álvaro Rocha#amrocha@dei.uc.pt#IS#25#239221432
+Rui Craveirinha#raneves@dei.uc.pt#IS#3#239245886
+José Campos#jcampos@di.estv.ipv.pt#IS#Semantic Topic Modelling#30/03/2021
+Stanley Lima#stanleylima@dei.uc.pt#IS#State-Based Programming in PQL#27/02/2021
+Paulo Simões#psimoes@dei.uc.pt#LCT#5#239372548#Responsável
+Bruno Sousa#Brubmsousa@dei.uc.pt#LCT#23#239231549
+Tiago Cruz#tjcruz@dei.uc.pt#LCT#30#239124957
+David Abreu#dabreu@dei.uc.pt#LCT#Sexy Evolutionary Computation#03/03/2021
+Duarte Raposo#draposo@dei.uc.pt#LCT#SoFly goes mobile#20/02/2021
+Henrique Madeira#henrique@dei.uc.pt#SSE#2#214231671#Responsável
+Bruno Cabral#bcabral@dei.uc.pt#SSE#8#214328865
+Raul Barbosa#rbarbosa@dei.uc.pt#SSE#29#214228596
+Diogo Carvalho#dmrc@student.dei.uc.pt#SSE#Medical Systems Integration#01/02/2021
+José Flora#jeflora@dei.uc.pt#SSE#Mobile Ambient Gaming#02/04/2021

@@ -1,0 +1,472 @@
+
+----//-----//----LISTA MÉDICOS----//-----//----
+Marta Gil - Especialista em nutrição
+Marcações:
+10h00 | Thomas Fresco
+
+Vicente Saraiva - Especialista em cirurgia plástica
+Marcações:
+10h00 | Mel Carvalheiro
+10h30 | Manuel Souto
+11h00 | Yasmin Carlos
+11h30 | Max Rebouças
+
+Carol Franqueira - Especialista em cirurgia geral
+Marcações:
+10h00 | Válter Caetano
+10h30 | Diana Mateus
+11h00 | Rita Mourão
+11h30 | Marco Cerqueira
+12h00 | Johnny Passarinho
+
+Isabela Amado - Especialista em estomatologia
+Sem marcações.
+
+Kelson Aguiar - Especialista em radioterapia
+Marcações:
+10h00 | Kelson Queiroga
+10h30 | Dilan Banha
+11h00 | Heitor Covinha
+11h30 | Fábio Sodré
+
+Stella Escobar - Especialista em pediatria
+Marcações:
+10h00 | Eva Filipe
+10h30 | Delmar Paiva
+11h00 | Liliana Botelho
+11h30 | Grace Ramires
+12h00 | Virgílio Reis
+
+Sandro Coimbra - Especialista em gastrenterologia
+Marcações:
+10h00 | Jorge Cortês
+10h30 | Chris Abreu
+11h00 | Ari Garcez
+
+Cláudio Baía - Especialista em psiquiatria
+Marcações:
+10h00 | Hélio Morais
+10h30 | Nancy Lagoa
+11h00 | Benjamim Sarmento
+
+Orlando Ramos - Especialista em urologia
+Marcações:
+10h00 | Barbara Valido
+10h30 | Tiago Galindo
+11h00 | Marta Infante
+11h30 | Elsa Fontoura
+12h00 | Simona Furtado
+12h30 | Tierri Braga
+13h00 | Oscar Neves
+13h30 | Dina Albuquerque
+14h00 | Stacy Bairros
+14h30 | Claudio Temes
+
+Ludmila Monte - Especialista em reumatologia
+Marcações:
+10h00 | Derek Doutis
+10h30 | Messias Barrocas
+11h00 | Constança Festas
+11h30 | Alana Semedo
+12h00 | Nayr Roçadas
+12h30 | Ruan Lobo
+
+Mario Duarte - Especialista em ginecologia
+Marcações:
+10h00 | Matilde Leiria
+10h30 | Glória Faia
+11h00 | Camilla Beltrão
+11h30 | Laryssa Cedro
+12h00 | Sílvia Carvalhoso
+
+Simone Feira - Especialista em oftalmologia
+Marcações:
+10h00 | Erica Tristão
+10h30 | Tabita Picanço
+11h00 | David Martinho
+11h30 | Anthony Tomé
+12h00 | Dina Azambuja
+
+Ismael Garcia - Especialista em cardiologia
+Marcações:
+10h00 | Dante Rosário
+10h30 | Vicente Nogueira
+11h00 | Evelina Grangeia
+11h30 | Sheila Pinto
+12h00 | Magda Bogado
+12h30 | Neusa Lagoas
+13h00 | Rogério Guterres
+
+Raúl Gameiro - Especialista em nefrologia
+Marcações:
+10h00 | Derick Igrejas
+10h30 | Zhen Igrejas
+11h00 | Ariel Cantanhede
+11h30 | Hazael Vilarinho
+12h00 | Séfora Vinhas
+
+Sara Jorge - Especialista em dermatologia
+Marcações:
+10h00 | Thomas Pereira
+10h30 | Oscar Poças
+11h00 | Nádia Graça
+11h30 | Eduardo Camões
+12h00 | Magda Freire
+12h30 | Rayssa Bilhalva
+13h00 | Mariana Silva
+13h30 | Mirela Sarmento
+14h00 | Jonathan Veleda
+14h30 | Cristovão Henriques
+
+João Miguel - Especialista em ortopedia
+Marcações:
+10h00 | José Ferreira
+10h30 | Maia Aveiro
+11h00 | Tomás Santos
+11h30 | Isabela Bastos
+12h00 | Simão Soares
+
+
+----//-----//----LISTA DOENTES----//-----//----
+Thomas Pereira - Doente de dermatologia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Sara Jorge
+
+Dante Rosário - Doente de cardiologia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Ismael Garcia
+
+Barbara Valido - Doente de urologia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Orlando Ramos
+
+Derek Doutis - Doente de reumatologia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Ludmila Monte
+
+Válter Caetano - Doente de cirurgia geral | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Carol Franqueira
+
+Oscar Poças - Doente de dermatologia | Nível de urgência: 4
+Marcações:
+10h30 | Dr/Drª Sara Jorge
+
+Kelson Queiroga - Doente de radioterapia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Kelson Aguiar
+
+Nádia Graça - Doente de dermatologia | Nível de urgência: 4
+Marcações:
+11h00 | Dr/Drª Sara Jorge
+
+Eva Filipe - Doente de pediatria | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Stella Escobar
+
+Hélio Morais - Doente de psiquiatria | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Cláudio Baía
+
+Tiago Galindo - Doente de urologia | Nível de urgência: 4
+Marcações:
+10h30 | Dr/Drª Orlando Ramos
+
+Jorge Cortês - Doente de gastrenterologia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Sandro Coimbra
+
+Heloisa Eanes - Doente de Homeopatia | Nível de urgência: 4
+Sem marcações.
+
+Matilde Leiria - Doente de ginecologia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Mario Duarte
+
+Mel Carvalheiro - Doente de cirurgia plástica | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Vicente Saraiva
+
+Erica Tristão - Doente de oftalmologia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª Simone Feira
+
+Marta Infante - Doente de urologia | Nível de urgência: 4
+Marcações:
+11h00 | Dr/Drª Orlando Ramos
+
+Eduardo Camões - Doente de dermatologia | Nível de urgência: 4
+Marcações:
+11h30 | Dr/Drª Sara Jorge
+
+José Ferreira - Doente de ortopedia | Nível de urgência: 4
+Marcações:
+10h00 | Dr/Drª João Miguel
+
+Maia Aveiro - Doente de ortopedia | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª João Miguel
+
+Magda Freire - Doente de dermatologia | Nível de urgência: 3
+Marcações:
+12h00 | Dr/Drª Sara Jorge
+
+Rayssa Bilhalva - Doente de dermatologia | Nível de urgência: 3
+Marcações:
+12h30 | Dr/Drª Sara Jorge
+
+Manuel Souto - Doente de cirurgia plástica | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª Vicente Saraiva
+
+Derick Igrejas - Doente de nefrologia | Nível de urgência: 3
+Marcações:
+10h00 | Dr/Drª Raúl Gameiro
+
+Elsa Fontoura - Doente de urologia | Nível de urgência: 3
+Marcações:
+11h30 | Dr/Drª Orlando Ramos
+
+Vicente Nogueira - Doente de cardiologia | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª Ismael Garcia
+
+Simona Furtado - Doente de urologia | Nível de urgência: 3
+Marcações:
+12h00 | Dr/Drª Orlando Ramos
+
+Yasmin Carlos - Doente de cirurgia plástica | Nível de urgência: 3
+Marcações:
+11h00 | Dr/Drª Vicente Saraiva
+
+Diana Mateus - Doente de cirurgia geral | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª Carol Franqueira
+
+Glória Faia - Doente de ginecologia | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª Mario Duarte
+
+Messias Barrocas - Doente de reumatologia | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª Ludmila Monte
+
+Evelina Grangeia - Doente de cardiologia | Nível de urgência: 3
+Marcações:
+11h00 | Dr/Drª Ismael Garcia
+
+Zhen Igrejas - Doente de nefrologia | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª Raúl Gameiro
+
+Tabita Picanço - Doente de oftalmologia | Nível de urgência: 3
+Marcações:
+10h30 | Dr/Drª Simone Feira
+
+Sheila Pinto - Doente de cardiologia | Nível de urgência: 3
+Marcações:
+11h30 | Dr/Drª Ismael Garcia
+
+Max Rebouças - Doente de cirurgia plástica | Nível de urgência: 3
+Marcações:
+11h30 | Dr/Drª Vicente Saraiva
+
+Camilla Beltrão - Doente de ginecologia | Nível de urgência: 3
+Marcações:
+11h00 | Dr/Drª Mario Duarte
+
+Tierri Braga - Doente de urologia | Nível de urgência: 3
+Marcações:
+12h30 | Dr/Drª Orlando Ramos
+
+Rita Mourão - Doente de cirurgia geral | Nível de urgência: 3
+Marcações:
+11h00 | Dr/Drª Carol Franqueira
+
+Magda Bogado - Doente de cardiologia | Nível de urgência: 3
+Marcações:
+12h00 | Dr/Drª Ismael Garcia
+
+Mariana Silva - Doente de dermatologia | Nível de urgência: 3
+Marcações:
+13h00 | Dr/Drª Sara Jorge
+
+Tomás Santos - Doente de ortopedia | Nível de urgência: 3
+Marcações:
+11h00 | Dr/Drª João Miguel
+
+Constança Festas - Doente de reumatologia | Nível de urgência: 2
+Marcações:
+11h00 | Dr/Drª Ludmila Monte
+
+Isabela Bastos - Doente de ortopedia | Nível de urgência: 2
+Marcações:
+11h30 | Dr/Drª João Miguel
+
+Neusa Lagoas - Doente de cardiologia | Nível de urgência: 2
+Marcações:
+12h30 | Dr/Drª Ismael Garcia
+
+Laryssa Cedro - Doente de ginecologia | Nível de urgência: 2
+Marcações:
+11h30 | Dr/Drª Mario Duarte
+
+David Martinho - Doente de oftalmologia | Nível de urgência: 2
+Marcações:
+11h00 | Dr/Drª Simone Feira
+
+Mirela Sarmento - Doente de dermatologia | Nível de urgência: 2
+Marcações:
+13h30 | Dr/Drª Sara Jorge
+
+Alana Semedo - Doente de reumatologia | Nível de urgência: 2
+Marcações:
+11h30 | Dr/Drª Ludmila Monte
+
+Delmar Paiva - Doente de pediatria | Nível de urgência: 2
+Marcações:
+10h30 | Dr/Drª Stella Escobar
+
+Oscar Neves - Doente de urologia | Nível de urgência: 2
+Marcações:
+13h00 | Dr/Drª Orlando Ramos
+
+Dilan Banha - Doente de radioterapia | Nível de urgência: 2
+Marcações:
+10h30 | Dr/Drª Kelson Aguiar
+
+Sílvia Carvalhoso - Doente de ginecologia | Nível de urgência: 2
+Marcações:
+12h00 | Dr/Drª Mario Duarte
+
+Jonathan Veleda - Doente de dermatologia | Nível de urgência: 2
+Marcações:
+14h00 | Dr/Drª Sara Jorge
+
+Marco Cerqueira - Doente de cirurgia geral | Nível de urgência: 2
+Marcações:
+11h30 | Dr/Drª Carol Franqueira
+
+Heitor Covinha - Doente de radioterapia | Nível de urgência: 2
+Marcações:
+11h00 | Dr/Drª Kelson Aguiar
+
+Cristovão Henriques - Doente de dermatologia | Nível de urgência: 2
+Marcações:
+14h30 | Dr/Drª Sara Jorge
+
+Liliana Botelho - Doente de pediatria | Nível de urgência: 2
+Marcações:
+11h00 | Dr/Drª Stella Escobar
+
+Nancy Lagoa - Doente de psiquiatria | Nível de urgência: 2
+Marcações:
+10h30 | Dr/Drª Cláudio Baía
+
+Ibrahim Calheiros - Doente de dermatologia | Nível de urgência: 2
+Em lista de espera.
+
+Nayr Roçadas - Doente de reumatologia | Nível de urgência: 2
+Marcações:
+12h00 | Dr/Drª Ludmila Monte
+
+Grace Ramires - Doente de pediatria | Nível de urgência: 2
+Marcações:
+11h30 | Dr/Drª Stella Escobar
+
+Fausto Carramate - Doente de dermatologia | Nível de urgência: 2
+Em lista de espera.
+
+Rogério Guterres - Doente de cardiologia | Nível de urgência: 1
+Marcações:
+13h00 | Dr/Drª Ismael Garcia
+
+Thomas Fresco - Doente de nutrição | Nível de urgência: 1
+Marcações:
+10h00 | Dr/Drª Marta Gil
+
+Virgílio Reis - Doente de pediatria | Nível de urgência: 1
+Marcações:
+12h00 | Dr/Drª Stella Escobar
+
+Johnny Passarinho - Doente de cirurgia geral | Nível de urgência: 1
+Marcações:
+12h00 | Dr/Drª Carol Franqueira
+
+Ariel Cantanhede - Doente de nefrologia | Nível de urgência: 1
+Marcações:
+11h00 | Dr/Drª Raúl Gameiro
+
+Anthony Tomé - Doente de oftalmologia | Nível de urgência: 1
+Marcações:
+11h30 | Dr/Drª Simone Feira
+
+Luís Viana - Doente de dermatologia | Nível de urgência: 1
+Em lista de espera.
+
+Dina Albuquerque - Doente de urologia | Nível de urgência: 1
+Marcações:
+13h30 | Dr/Drª Orlando Ramos
+
+Chris Abreu - Doente de gastrenterologia | Nível de urgência: 1
+Marcações:
+10h30 | Dr/Drª Sandro Coimbra
+
+Benjamim Sarmento - Doente de psiquiatria | Nível de urgência: 1
+Marcações:
+11h00 | Dr/Drª Cláudio Baía
+
+Dina Azambuja - Doente de oftalmologia | Nível de urgência: 1
+Marcações:
+12h00 | Dr/Drª Simone Feira
+
+Stacy Bairros - Doente de urologia | Nível de urgência: 1
+Marcações:
+14h00 | Dr/Drª Orlando Ramos
+
+Ruan Lobo - Doente de reumatologia | Nível de urgência: 1
+Marcações:
+12h30 | Dr/Drª Ludmila Monte
+
+Claudio Temes - Doente de urologia | Nível de urgência: 1
+Marcações:
+14h30 | Dr/Drª Orlando Ramos
+
+Mark Azeredo - Doente de urologia | Nível de urgência: 1
+Em lista de espera.
+
+Hazael Vilarinho - Doente de nefrologia | Nível de urgência: 1
+Marcações:
+11h30 | Dr/Drª Raúl Gameiro
+
+Fábio Sodré - Doente de radioterapia | Nível de urgência: 1
+Marcações:
+11h30 | Dr/Drª Kelson Aguiar
+
+Ari Garcez - Doente de gastrenterologia | Nível de urgência: 1
+Marcações:
+11h00 | Dr/Drª Sandro Coimbra
+
+Séfora Vinhas - Doente de nefrologia | Nível de urgência: 1
+Marcações:
+12h00 | Dr/Drª Raúl Gameiro
+
+Flora Marcondes - Doente de urologia | Nível de urgência: 1
+Em lista de espera.
+
+Nélia Amaral - Doente de dermatologia | Nível de urgência: 1
+Em lista de espera.
+
+Simão Soares - Doente de ortopedia | Nível de urgência: 1
+Marcações:
+12h00 | Dr/Drª João Miguel
+
+
+----//-----//----LISTA DE ESPERA----//-----//----
+Ibrahim Calheiros - Doente de dermatologia | Nível de urgência: 2
+Fausto Carramate - Doente de dermatologia | Nível de urgência: 2
+Luís Viana - Doente de dermatologia | Nível de urgência: 1
+Mark Azeredo - Doente de urologia | Nível de urgência: 1
+Flora Marcondes - Doente de urologia | Nível de urgência: 1
+Nélia Amaral - Doente de dermatologia | Nível de urgência: 1
+

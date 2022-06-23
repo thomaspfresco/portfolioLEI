@@ -1,0 +1,2 @@
+entrada.bin
+saida.bin

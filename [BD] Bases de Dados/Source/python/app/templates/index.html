@@ -1,0 +1,68 @@
+<!doctype html>
+
+<html>
+<head><title>Test</title> 
+    <meta charset=utf-8> </head>
+    <body>
+        <h1>Leiloes</h1>
+        <br>
+		<br>
+        <button> <a href="/dbproj/user/">Get Users</a></button>
+		<br>
+		<br>
+		<form class="cf" onSubmit="login(this)">
+			<input type="text" placeholder="email" name="email">
+			<input type="password" placeholder="password" name="password">
+			<input type="submit" value="Submit" id="input-submit">
+		</form>
+		<br>
+		<br>
+		<form class="cf" onSubmit="register(this)">
+			<input type="text" placeholder="name" name="name">
+			<input type="text" placeholder="surname" name="surname">
+			<br>
+			<input type="text" placeholder="email" name="email">
+			<input type="text" placeholder="password" name="password">
+			<br>
+			<input type="text" placeholder="address" name="address">
+			<input type="text" placeholder="city" name="city">
+			<br>
+			<input type="text" placeholder="gender (M/F/O)" name="gender">
+			<br>
+			
+			<input type="submit" value="Submit" id="input-submit">
+		</form>
+		
+	
+	<script>
+		function login(form){
+			var xhr = new XMLHttpRequest();
+			xhr.open("PUT", "http://localhost:8080/dbproj/user/", true);
+			xhr.setRequestHeader('Content-Type', 'application/json');
+			xhr.send(JSON.stringify({
+				"email": form.email.value,
+				"password": form.password.value,
+			}));
+		
+		}
+
+		function register(form){
+			var xhr = new XMLHttpRequest();
+			xhr.open("POST", "http://localhost:8080/dbproj/user/", true);
+			xhr.setRequestHeader('Content-Type', 'application/json');
+			xhr.send(JSON.stringify({
+				"name": form.name.value,
+				"surname": form.surname.value,
+				"email": form.email.value,
+				"password": form.password.value,
+				"address": form.address.value,
+				"city": form.city.value,
+				"gender": form.gender.value,
+				"admin": false,
+			}));
+		
+		}
+	</script>
+
+<body>
+</html>

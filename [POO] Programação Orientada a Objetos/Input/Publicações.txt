@@ -1,0 +1,127 @@
+PUBLICAÇÕES-----//-----//-----
+Legenda: AR-Artigo Revista; AC - Artigo Conferência; L- Livro; LC - Livro Capítulos; LA - Livro Artigos de Conferência
+
+AR#Reductions and Abstractions for Formal Verification of Distributed Round-based Algorithms#Algorithms#2019#1120
+Artigo de revista sobre Reductions and Abstractions for Formal Verification of Distributed Round-based Algorithms.
+Springer Software Quality Journal#20/09/2019#20190920
+Jorge Henriques#Carlos Nogueira
+
+AR#Federated Learning as a Privacy-Providing Machine Learning for Defect Predictions in Smart Manufacturing#Machine Learning#2020#420
+Artigo de revista sobre Federated Learning as a Privacy-Providing Machine Learning for Defect Predictions in Smart Manufacturing.
+Smart and Sustainable Manufacturing Systems#04/04/2020#20200404
+Rui Craveirinha#David Abreu
+
+AR#GPU-based fast clustering via K-Centres and k-NN mode seeking for geospatial industry applications#geospatial industry#2020#630
+Artigo de revista sobre GPU-based fast clustering via K-Centres and k-NN mode seeking for geospatial industry applications.
+Computers in Industry#10/06/2020#20200610
+Bruna Sousa#José Flora#Adriana Leal
+
+AR#An Approach to the Unified Management of Heterogeneous IoT Environments#IoT Environments#2018#1465
+Artigo de revista sobre An Approach to the Unified Management of Heterogeneous IoT Environments.
+Internet of Things Journal#14/10/2018#20181014
+Licínio Roque
+
+AR#Using Fault Injection to Assess Blockchain Systems in Presence of Faulty Smart Contracts#Blockchain Systems#2020#230
+Artigo de revista sobre Using Fault Injection to Assess Blockchain Systems in Presence of Faulty Smart Contracts.
+Smart and Sustainable Manufacturing Systems#25/07/2020#20200725
+Duarte Raposo#Henrique Madeira
+
+AC#Glowing Lichen: Visually Sensing Social Spaces#Social Spaces#2017#750
+Artigo de conferência sobre Glowing Lichen: Visually Sensing Social Spaces.
+International International Symposium on Electronic Art (ISEA)#12/01/2017#Monteral, Canada
+Raul Barbosa#Pedro Correia
+
+AC#Using Deep Q-learning for Optimization of Aircraft Maintenance Scheduling#Q-learning#2020#382
+Artigo de conferência sobre Using Deep Q-learning for Optimization of Aircraft Maintenance Scheduling.
+Portuguese Conference on Pattern Recognition#05/05/2020#RECPAD 2020
+Ana Boavida#Jessica Cunha
+
+AC#Aprendizagem Computacional em Engenharia#Aprendizagem Computacional#2015#120
+Artigo de conferência sobre Aprendizagem Computacional em Engenharia.
+Coimbra University Press#29/09/2015#Coimbra
+Nuno Lourenço
+
+AC#Online Verification through Model Checking of Medical Critical Intelligent Systems#Online Verification#2020#947
+Artigo de conferência sobre Online Verification through Model Checking of Medical Critical Intelligent Systems.
+Dependable and Secure Machine Learning#28/11/2020#International Conference on Dependable Systems and Networks (DSN 2020)
+Stanley Lima#Álvaro Rocha
+
+AC#Python Framework for Portuguese STS#Python Framework#2020#52
+Artigo de conferência sobre Python Framework for Portuguese STS.
+Evaluating Semantic Textual Similarity and Textual Entailment in Portuguese#01/12/2020#Lisboa, Portugal
+Catarina Maçãs#Penousal Machado
+
+L#Introdução à Criptografia#Criptografia#2019#16536
+Livro sobre Criptografia.
+FCA - Editora de Informática#20190426
+Penousal Machado
+
+L#A Practical Introduction to Human-in-the-Loop Cyber-Physical Systems#Cyber-Physical Systems#2018#940
+Livro sobre A Practical Introduction to Human-in-the-Loop Cyber-Physical Systems.
+John Wiley & Sons Ltd.#20180522
+Bruno Sousa#André Ventura
+
+L#Maturidade dos Sistemas de Informação Hospitalares#Maturidade dos Sistemas#2012#14006
+Livro sobre Maturidade dos Sistemas de Informação Hospitalares.
+Edições Sílabo#20120917
+João Correia#Diogo Carvalho#Paulo Simões
+
+L#Wireless Public Safety Networks#Safety Networks#2017#5438
+Livro sobre Wireless Public Safety Networks.
+ISTE Press - Elsevier#20170216
+Marco Veloso#Jorge Henriques
+
+L#Wireless sensors in heterogeneous networked systems# Wireless sensors#2016#13270
+Livro sobre  Wireless sensors in heterogeneous networked systems.
+Springer#20201209
+Adriana Leal#Licínio Roque#Carlos Nogueira
+
+LC#Letras Prá Vida: os media ao serviço da literacia#literacia#2020#12540
+Livro de capítulos sobre Letras Prá Vida: os media ao serviço da literacia.
+Porto Editora#20200802#Rumos e Perspetivas#241#258
+Paulo Simões
+
+LC#Explorations of the Semantic Learning Machine Neuroevolution Algorithm#Neuroevolution#2020#6150
+Livro de capítulos sobre Explorations of the Semantic Learning Machine Neuroevolution Algorithm.
+Texto Editora#20200222#Genetic Programming Theory#1#24
+Pedro Correia#André Ventura
+
+LC#Directional Grid-based Search for Simulation Metamodeling using Active Learning#Active Learning#2019#1346
+Livro de capítulos sobre Directional Grid-based Search for Simulation Metamodeling using Active Learning.
+ASA#20191015#ch.3#32#46
+Tiago Cruz#Diogo Carvalho#André Ventura
+
+LC#Neuroevolution of Generative Adversarial Networks#Neuroevolution#2018#15001
+Livro de capítulos sobre Neuroevolution of Generative Adversarial Networks.
+Porto Editora#20180306#ch.11#293#322
+Nuno Lourenço#Ernesto Costa
+
+LC#Network Security for IoT and M2M Communication#Communication#2020#8830
+Livro de capítulos sobre Network Security for IoT and M2M Communication.
+ASA#20201209#ch.8#299#330
+Paulo Simões#Adriana Leal
+
+LA#Evolutionary Computation in Combinatorial Optimization#Evolutionary Computation#2020#11303
+Livro de artigos de conferência sobre Evolutionary Computation in Combinatorial Optimization.
+Porto Editora#20200719#20th European Conference#12
+Victor Costa#Jessica Cunha
+
+LA#Pattern Recognition and Image Analysis#Image Analysis#2020#5535
+Livro de artigos de conferência sobre Pattern Recognition and Image Analysis.
+Texto Editora#20201011#LNCS#5
+Pedro Correia#Stanley Lima
+
+LA#Proceedings of 8th Symposium on Languages#Languages#2019#2240
+Livro de artigos de conferência sobre Proceedings of 8th Symposium on Languages.
+ASA#20191103#SLATE 2019#14
+Tiago Cruz
+
+LA#Computational Intelligence International Joint Conference#Computational Intelligence#2016#2612
+Livro de artigos de conferência sobre Computational Intelligence International Joint Conference.
+Porto Editora#20160131#IJCCI 2016 Porto#4
+Nuno Lourenço#Penousal Machado
+
+LA#Computational Processing of the Portuguese Language#Computational Processing#2018#9719
+Livro de artigos de conferência sobre Computational Processing of the Portuguese Language.
+ASA#20180510#{PROPOR} 2018#21
+Duarte Raposo#Jorge Henriques
