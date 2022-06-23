@@ -1,0 +1,14 @@
+thomaspfresco:ola123
+FCTUC|932123456|Rua da Fonte, Coimbra|14236780|24/05/2024
+
+miguelferreira:abc
+FCTUC|912555623|Praça de Camões, Mealhada|42394312|30/08/2025
+
+toliveira:caidonivel1.pdf
+FMUC|965420949|Rua Bernardete Silva, Faro|34592893|20/10/2023
+
+descatres:vatata2001
+ISCAC|923458193|Avenida dos Aliados, Lisboa|23458196|03/03/2024
+
+aaa:abc
+FCTUC|932123456|Rua da Fonte, Coimbra|14236780|24/05/2024
